@@ -8,16 +8,17 @@
 
 .infected{
     border-bottom:10px solid red;
-    
 }
 
 .recovered{
-    border-bottom:10px solid greenyellow;
-    
+    border-bottom:10px solid greenyellow;   
 }
 
 .deaths{
     border-bottom:10px solid black;
-    
+}
+
+.word{
+    color: rgb(74, 184, 199);
 }
 

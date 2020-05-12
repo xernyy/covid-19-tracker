@@ -1,0 +1,33 @@
+h3{
+    display: inline;
+    padding-left: 40px;
+    padding-right: 40px; 
+    text-align: center;
+    color: white;
+    background:rgb(233, 39, 39);
+  }
+nav{
+    text-align: center;
+
+    overflow: hidden;
+
+    color: black;
+
+    background-color: rgb(233, 39, 39);
+
+    color: white;
+}
+header {
+    text-align: center;
+    
+}
+html{
+    background-color: rgb(192, 107, 107);
+}
+
+.fancy{
+  border-style: solid;
+  border-bottom: none;
+  border-top: none;
+  border-color: rgb(31, 29, 29);
+}

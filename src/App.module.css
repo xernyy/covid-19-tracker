@@ -1,6 +1,4 @@
-body{
-    background-color: aqua;
-}
+
 
 .container {
     display:flex;
@@ -8,3 +6,9 @@ body{
     justify-content: center;
     flex-direction: column;
 }
+
+.image{
+    width: 600px;
+    margin-top: 50px;
+}
+
