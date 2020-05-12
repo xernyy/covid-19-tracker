@@ -8,6 +8,11 @@ Ensure node.js is installed on your PC
 
 cd to file's directory
 
+
 run command npm i
 
+
 run command npm start
+
+
+api: https://covid19.mathdro.id/api
